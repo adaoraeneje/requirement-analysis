@@ -38,3 +38,22 @@ With well-defined requirements, project managers can better estimate timelines, 
 
 ### 4: Improves Product Quality
 When requirements are clear and validated, the final product is more likely to meet the user’s needs and expectations, leading to higher customer satisfaction.
+
+## Key Activities in Requirement Analysis
+
+Requirement Analysis involves several important steps that help ensure the software meets user needs. Here are the five key activities involved:
+
+- **Requirement Gathering:**  
+  This is the process of collecting information from stakeholders (e.g., clients, users, managers) about what they want the software to do. Techniques include interviews, surveys, and observations.
+
+- **Requirement Elicitation:**  
+  This step goes deeper into understanding what stakeholders really need. It often involves discussions, brainstorming, and even creating prototypes to clarify expectations.
+
+- **Requirement Documentation:**  
+  After gathering and understanding the requirements, everything is written down clearly in documents like Software Requirement Specifications (SRS), user stories, or use case descriptions.
+
+- **Requirement Analysis and Modeling:**  
+  This involves reviewing the documented requirements to check for completeness, consistency, and feasibility. It may also include creating visual models like flowcharts, diagrams, or data models to better understand the system.
+
+- **Requirement Validation:**  
+  Finally, the requirements are reviewed with stakeholders to make sure everything is correct, clear, and agreed upon before development begins. This helps avoid mistakes and costly changes later.
