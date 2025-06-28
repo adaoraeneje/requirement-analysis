@@ -83,3 +83,18 @@ Non-functional requirements describe **how the system should perform**. These ar
 - The system should support up to 1000 users at the same time without crashing (Scalability).
 - The platform should be easy to navigate for both desktop and mobile users (Usability).
 - The system should be available 99.9% of the time throughout the year (Reliability).
+
+## Use Case Diagrams
+
+A Use Case Diagram is a visual tool used in Requirement Analysis to show how users (called *actors*) interact with the system. It helps identify the different ways the software will be used and ensures all functionalities are captured.
+
+### Benefits of Use Case Diagrams:
+- They give a clear, visual overview of system functionalities.
+- They help developers understand user roles and interactions.
+- They improve communication between technical and non-technical stakeholders.
+
+### Example: Booking Management System Use Case Diagram
+
+The diagram below shows key actors (users) and their interactions with the booking system:
+
+![Use Case Diagram](./alx-booking-uc.png)
